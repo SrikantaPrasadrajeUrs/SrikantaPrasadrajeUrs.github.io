@@ -5,58 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0dac94a-4fcb-48a7-a658-4438ac6a344b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.last_build_id" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.bin.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/FontManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/NOTICES" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/LottieLogo1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/certificateInfo.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/coding-animation.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/experience.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/icons/bloc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/icons/check.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/icons/dart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/icons/download.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/icons/firebase.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/icons/flutter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/icons/github.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/icons/linkedin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/icons/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/icons/twitter.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/images/Animation%20-%201712066599010.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/images/flutter_bird.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/images/image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/images/my_image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/images/portfolio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/images/selfie.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/images/selfie1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/images/selfie2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/images/triange_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/projects.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/svgs/leetcode.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/svgs/nodejs.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/svgs/pencil.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/svgs/reactNative.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/svgs/riverpod.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/asset/svgs/spring.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/shaders/ink_sparkle.frag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/asset/images/community.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/asset/images/pizza%20app.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/asset/images/task_manager.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/asset/videos/2x_sound_tm.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/packages/wakelock_plus/assets/no_sleep.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.bin" beforeDir="false" afterPath="$PROJECT_DIR$/assets/AssetManifest.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.bin.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/AssetManifest.bin.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/AssetManifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/assets/NOTICES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/asset/experience.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/asset/experience.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/asset/projects.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/asset/projects.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/MaterialIcons-Regular.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flutter_bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_service_worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/Icon-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/Icon-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/Icon-maskable-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/Icon-maskable-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.dart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_service_worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_service_worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.dart.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,12 +42,12 @@
     &quot;assignee&quot;: &quot;SrikantaPrasadrajeUrs&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/SrikantaPrasadrajeUrs/SrikantaPrasadrajeUrs.github.io.git&quot;,
-    &quot;accountId&quot;: &quot;19d1cc53-8a1e-4ee8-870e-8ba6f2c22b02&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SrikantaPrasadrajeUrs/SrikantaPrasadrajeUrs.github.io.git",
+    "accountId": "bf23ae1d-3764-47ef-8b0f-f0bc923483fe"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5

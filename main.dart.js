@@ -95534,8 +95534,8 @@ A.ajY.prototype={
 $2(a,b){return B.Nh},
 $S:574}
 A.ND.prototype={
-G(a){var s=null
-return A.Fo(s,A.cd(A.a([A.bl("CERTIFICATIONS",s,s,A.X(a).p2.y.vh(30,B.aH,1),s),B.bM,B.ML],t.p),B.q,B.v,B.t,B.B),s,s)}}
+G(a){var s=null,r=A.X(a).p2.y
+return A.Fo(s,A.cd(A.a([A.bl("CERTIFICATIONS",s,s,r==null?s:r.vh(30,B.aH,1),s),B.bM,B.ML],t.p),B.q,B.v,B.t,B.B),s,s)}}
 A.oa.prototype={
 a7(){var s=$.qt(),r=t.Wo
 r=new A.AO(A.aHg(A.a([!1,!1,!1,!1,!1,!1],t.HZ),t.y),A.a([],t.EH),A.fm(null,null,null,t.X,t.xW),new A.mO(r),new A.mO(r),!1,!1)
@@ -95621,8 +95621,8 @@ bn(){this.cB()
 this.ca()
 this.eU()}}
 A.Pq.prototype={
-G(a){var s=null
-return A.Fo(s,A.cd(A.a([A.bl("EXPERIENCE",s,s,A.X(a).p2.y.vh(30,B.aH,1),s),B.bM,B.MJ],t.p),B.q,B.v,B.t,B.B),s,s)}}
+G(a){var s=null,r=A.X(a).p2.y
+return A.Fo(s,A.cd(A.a([A.bl("EXPERIENCE",s,s,r==null?s:r.vh(30,B.aH,1),s),B.bM,B.MJ],t.p),B.q,B.v,B.t,B.B),s,s)}}
 A.op.prototype={
 a7(){var s=$.qt(),r=t.Wo
 r=new A.Ca(A.aHg(A.a([!1,!1],t.HZ),t.y),A.a([],t.EH),A.fm(null,null,null,t.X,t.xW),new A.mO(r),new A.mO(r),!1,!1)
@@ -95968,9 +95968,13 @@ A.Eu.prototype={
 a7(){return new A.a0L()}}
 A.a0L.prototype={
 az(){this.aL()},
-G(a){var s=null,r=A.bl("PROJECTS",s,s,A.X(a).p2.y.vh(30,B.aH,1),s),q=A.alE(4,4),p=A.alE(1,1.7),o=A.alE(2,2)
+G(a){var s,r,q,p=null,o=A.X(a).p2.y
+o=A.bl("PROJECTS",p,p,o==null?p:o.vh(30,B.aH,1),p)
+s=A.alE(4,4)
+r=A.alE(1,1.7)
+q=A.alE(2,2)
 A.alE(4,1.4)
-return A.cd(A.a([B.bM,r,A.jh(new A.xw(q,p,o,s),1)],t.p),B.q,B.v,B.t,B.B)}}
+return A.cd(A.a([B.bM,o,A.jh(new A.xw(s,r,q,p),1)],t.p),B.q,B.v,B.t,B.B)}}
 A.Et.prototype={
 a7(){return new A.a0K()}}
 A.a0K.prototype={
